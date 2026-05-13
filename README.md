@@ -12,7 +12,6 @@ By completing this project, I will:
  - Utilize the HTML boilerplate
  - Gain familiarity in the structural use of HTML
 
- ==============================================
  Post-Project Reflections
  ----------------------------------------------
  This project was a surprisingly engaging exercise in using basic HTML and Git. It helped entrench HTML as the structural backbone of the site, rather than a formatting tool, which is the trap I generally would fall into when I first started playing with websites. I'm starting to ease back on the compulsion to overthink the future layout when making the skeleton, which is probably good.
