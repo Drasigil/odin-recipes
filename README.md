@@ -3,7 +3,7 @@ Project 1: Recipes webpage - Foundations course, The Odin Project.
 ==============================================
 Pre-Project Expectations
 ----------------------------------------------
-This is a quick introductory project meant to demonstrate basic competencies in Git usage and semantic HTML.
+This is a quick introductory project meant to demonstrate basic competencies in Git usage and semantic HTML
 
 By completing this project, I will:
  - Practice setting up repositories on GitHub and cloning them to my local machine with Git
@@ -18,7 +18,7 @@ By completing this project, I will:
 
  Git is pretty fun and easy to use, although I haven't used it to rollback any changes yet, so it will be interesting to see how it goes when that time comes. I wasn't as consistent at commit messages as I expected I would be; there are 1 or 2 entries written in the past-tense, rather than the imperative. Using Git for atomic-level changes came very naturally, though, as I'm someone who naturally keeps fingers on CTRL + S as it is, and this is just an extension of that instinct.
 
- As for the site, I feel it came out well, for what it is, which is a very simple HTML learning sandbox. I didn't obsess too much about making it something more than what it was meant to be, so I stuck to fulfilling the basic project requirements. One of the biggest parts of this for me was just training my commitment to consistently working on it every day, even in small amounts, to deprogram the habit of hammering out everyone at once in a single, multi-hour block.
+ As for the site, I feel it came out well, for what it is, which is a very simple HTML learning sandbox. I didn't obsess too much about making it something more than what it was meant to be, so I stuck to fulfilling the basic project requirements. One of the biggest parts of this for me was just training my discipline to consistently working on it every day, even in small amounts, to deprogram the habit of hammering out everything at once in a single, multi-hour block.
 
  Overall: I feel I learned quite a bit!
 
